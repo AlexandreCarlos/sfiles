@@ -8,3 +8,4 @@ env
 flaskr.sublime-workspace
 __pycache__
 *.sublime-workspace
+results.txt
