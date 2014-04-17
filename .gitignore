@@ -58,6 +58,7 @@ misc.xml
 
 # SQLite 3
 *.db
+*.db-journal
 *.sqlite
 
 # Sublime 2 
