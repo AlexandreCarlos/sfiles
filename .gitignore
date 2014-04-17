@@ -1,0 +1,10 @@
+workspace.xml
+misc.xml
+env
+*.pyc
+*.DS_Store
+*.db
+*.sqlite
+flaskr.sublime-workspace
+__pycache__
+*.sublime-workspace
